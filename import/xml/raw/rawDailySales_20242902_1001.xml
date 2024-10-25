@@ -1,0 +1,5523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transactions>
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9000</transactionId>
+    <productName>6x9 Product A Sapporo</productName>
+    <productID>PA1324</productID>
+    <qty>4</qty>
+    <totalAmount>9.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Edward</firstname>
+        <lastname>Littles</lastname>
+        <email>Edward.Littles@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9001</transactionId>
+    <productName>6x11 Product C Busan</productName>
+    <productID>PA1808</productID>
+    <qty>1</qty>
+    <totalAmount>2.7</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Bobby</firstname>
+        <lastname>Robb</lastname>
+        <email>Bobby.Robb@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9002</transactionId>
+    <productName>4.25x6 Product B Chengdu</productName>
+    <productID>PA430</productID>
+    <qty>5</qty>
+    <totalAmount>14.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Amanda</firstname>
+        <lastname>Williams</lastname>
+        <email>Amanda.Williams@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9003</transactionId>
+    <productName>6x11 Product A Kaohsiung</productName>
+    <productID>PA1690</productID>
+    <qty>1</qty>
+    <totalAmount>1.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>John</firstname>
+        <lastname>Ariel</lastname>
+        <email>John.Ariel@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9004</transactionId>
+    <productName>5.5x8.5 Product B Kuala Lumpur</productName>
+    <productID>PA1099</productID>
+    <qty>1</qty>
+    <totalAmount>4.1</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Karen</firstname>
+        <lastname>Demopoulos</lastname>
+        <email>Karen.Demopoulos@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9005</transactionId>
+    <productName>6x11 Product C Karachi</productName>
+    <productID>PA1839</productID>
+    <qty>6</qty>
+    <totalAmount>19.200000000000003</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Johanna</firstname>
+        <lastname>Saugis</lastname>
+        <email>Johanna.Saugis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Karachi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9006</transactionId>
+    <productName>5x7 Product E Kaohsiung</productName>
+    <productID>PA964</productID>
+    <qty>2</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Richard</firstname>
+        <lastname>Wilson</lastname>
+        <email>Richard.Wilson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9007</transactionId>
+    <productName>5x7 Product E Kathmandu</productName>
+    <productID>PA986</productID>
+    <qty>6</qty>
+    <totalAmount>17.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Dustin</firstname>
+        <lastname>Brandl</lastname>
+        <email>Dustin.Brandl@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kathmandu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9008</transactionId>
+    <productName>6x9 Product E Tianjin</productName>
+    <productID>PA1621</productID>
+    <qty>1</qty>
+    <totalAmount>1.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Brandi</firstname>
+        <lastname>Steele</lastname>
+        <email>Brandi.Steele@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tianjin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9009</transactionId>
+    <productName>5x7 Product C Taipei</productName>
+    <productID>PA831</productID>
+    <qty>1</qty>
+    <totalAmount>1.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Quincy</firstname>
+        <lastname>Obradovich</lastname>
+        <email>Quincy.Obradovich@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Taipei</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9010</transactionId>
+    <productName>4.25x6 Product C Sydney</productName>
+    <productID>PA486</productID>
+    <qty>3</qty>
+    <totalAmount>9.899999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Kenneth</firstname>
+        <lastname>Murphy</lastname>
+        <email>Kenneth.Murphy@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sydney</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9011</transactionId>
+    <productName>5.5x8.5 Product A Bangkok</productName>
+    <productID>PA1031</productID>
+    <qty>3</qty>
+    <totalAmount>10.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>John</firstname>
+        <lastname>Biggs</lastname>
+        <email>John.Biggs@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangkok</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9012</transactionId>
+    <productName>5.5x8.5 Product B Sydney</productName>
+    <productID>PA1080</productID>
+    <qty>2</qty>
+    <totalAmount>8.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Monica</firstname>
+        <lastname>Dore</lastname>
+        <email>Monica.Dore@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sydney</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9013</transactionId>
+    <productName>5.5x8.5 Product D Tianjin</productName>
+    <productID>PA1225</productID>
+    <qty>4</qty>
+    <totalAmount>9.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Javier</firstname>
+        <lastname>George</lastname>
+        <email>Javier.George@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tianjin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9014</transactionId>
+    <productName>4.25x6 Product C Kitakyushu</productName>
+    <productID>PA474</productID>
+    <qty>6</qty>
+    <totalAmount>18.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Dennis</firstname>
+        <lastname>Musielak</lastname>
+        <email>Dennis.Musielak@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9015</transactionId>
+    <productName>4x6 Product D Ulaanbaatar</productName>
+    <productID>PA264</productID>
+    <qty>5</qty>
+    <totalAmount>16.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Karen</firstname>
+        <lastname>Pyle</lastname>
+        <email>Karen.Pyle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ulaanbaatar</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9016</transactionId>
+    <productName>5x7 Product D Mumbai</productName>
+    <productID>PA906</productID>
+    <qty>5</qty>
+    <totalAmount>18.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Angelika</firstname>
+        <lastname>Stancill</lastname>
+        <email>Angelika.Stancill@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Mumbai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9017</transactionId>
+    <productName>6x11 Product D Saitama</productName>
+    <productID>PA1858</productID>
+    <qty>2</qty>
+    <totalAmount>6.2</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Brenda</firstname>
+        <lastname>Aleo</lastname>
+        <email>Brenda.Aleo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Saitama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9018</transactionId>
+    <productName>4x6 Product E Fukuoka</productName>
+    <productID>PA269</productID>
+    <qty>1</qty>
+    <totalAmount>3.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Martha</firstname>
+        <lastname>Matelski</lastname>
+        <email>Martha.Matelski@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Fukuoka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9019</transactionId>
+    <productName>6x9 Product B Sagamihara</productName>
+    <productID>PA1400</productID>
+    <qty>4</qty>
+    <totalAmount>16.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Maynard</lastname>
+        <email>James.Maynard@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9020</transactionId>
+    <productName>6x11 Product A Pune</productName>
+    <productID>PA1705</productID>
+    <qty>4</qty>
+    <totalAmount>11.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Susan</firstname>
+        <lastname>Herring</lastname>
+        <email>Susan.Herring@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Pune</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9021</transactionId>
+    <productName>4x6 Product B Nagoya</productName>
+    <productID>PA69</productID>
+    <qty>6</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jessica</firstname>
+        <lastname>Overcash</lastname>
+        <email>Jessica.Overcash@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Nagoya</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9022</transactionId>
+    <productName>6x9 Product A Nagoya</productName>
+    <productID>PA1323</productID>
+    <qty>1</qty>
+    <totalAmount>3.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Karen</firstname>
+        <lastname>Jablonski</lastname>
+        <email>Karen.Jablonski@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Nagoya</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9023</transactionId>
+    <productName>5.5x8.5 Product B Guangzhou</productName>
+    <productID>PA1089</productID>
+    <qty>5</qty>
+    <totalAmount>11.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Gwendolyn</firstname>
+        <lastname>Pate</lastname>
+        <email>Gwendolyn.Pate@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Guangzhou</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9024</transactionId>
+    <productName>4.25x6 Product C Saitama</productName>
+    <productID>PA472</productID>
+    <qty>2</qty>
+    <totalAmount>7.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Susan</firstname>
+        <lastname>Johnson</lastname>
+        <email>Susan.Johnson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Saitama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9025</transactionId>
+    <productName>4x6 Product A Dhaka</productName>
+    <productID>PA60</productID>
+    <qty>4</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Wagner</lastname>
+        <email>James.Wagner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9026</transactionId>
+    <productName>4.25x6 Product E Vientiane</productName>
+    <productID>PA659</productID>
+    <qty>3</qty>
+    <totalAmount>5.699999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jeffrey</firstname>
+        <lastname>Curtis</lastname>
+        <email>Jeffrey.Curtis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Vientiane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9027</transactionId>
+    <productName>5.5x8.5 Product B Kaohsiung</productName>
+    <productID>PA1096</productID>
+    <qty>5</qty>
+    <totalAmount>20.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mark</firstname>
+        <lastname>Colon</lastname>
+        <email>Mark.Colon@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9028</transactionId>
+    <productName>5.5x8.5 Product C Ho Chi Minh City</productName>
+    <productID>PA1168</productID>
+    <qty>1</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Karolyn</firstname>
+        <lastname>Belizaire</lastname>
+        <email>Karolyn.Belizaire@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ho Chi Minh City</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9029</transactionId>
+    <productName>6x11 Product E Shanghai</productName>
+    <productID>PA1945</productID>
+    <qty>3</qty>
+    <totalAmount>7.800000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Charles</firstname>
+        <lastname>Averill</lastname>
+        <email>Charles.Averill@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9030</transactionId>
+    <productName>5x7 Product A Naha</productName>
+    <productID>PA676</productID>
+    <qty>2</qty>
+    <totalAmount>4.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Dustin</firstname>
+        <lastname>Lohman</lastname>
+        <email>Dustin.Lohman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9031</transactionId>
+    <productName>5.5x8.5 Product B Kobe</productName>
+    <productID>PA1062</productID>
+    <qty>6</qty>
+    <totalAmount>18.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Elwood</firstname>
+        <lastname>Gibson</lastname>
+        <email>Elwood.Gibson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kobe</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9032</transactionId>
+    <productName>5.5x8.5 Product A Sapporo</productName>
+    <productID>PA994</productID>
+    <qty>2</qty>
+    <totalAmount>8.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Brian</firstname>
+        <lastname>Yanez</lastname>
+        <email>Brian.Yanez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9033</transactionId>
+    <productName>4x6 Product C Hyderabad</productName>
+    <productID>PA183</productID>
+    <qty>4</qty>
+    <totalAmount>11.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Brittany</firstname>
+        <lastname>Alfaro</lastname>
+        <email>Brittany.Alfaro@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9034</transactionId>
+    <productName>5x7 Product B Kaohsiung</productName>
+    <productID>PA766</productID>
+    <qty>5</qty>
+    <totalAmount>20.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Kristina</firstname>
+        <lastname>Jones</lastname>
+        <email>Kristina.Jones@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9035</transactionId>
+    <productName>6x9 Product A Karachi</productName>
+    <productID>PA1377</productID>
+    <qty>2</qty>
+    <totalAmount>7.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Ricky</firstname>
+        <lastname>Mrotek</lastname>
+        <email>Ricky.Mrotek@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Karachi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9036</transactionId>
+    <productName>5.5x8.5 Product D Brisbane</productName>
+    <productID>PA1206</productID>
+    <qty>2</qty>
+    <totalAmount>6.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Donald</firstname>
+        <lastname>Rosenthal</lastname>
+        <email>Donald.Rosenthal@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Brisbane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9037</transactionId>
+    <productName>6x11 Product A Naha</productName>
+    <productID>PA1666</productID>
+    <qty>2</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Stella</firstname>
+        <lastname>Sullivan</lastname>
+        <email>Stella.Sullivan@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9038</transactionId>
+    <productName>4.25x6 Product B Ho Chi Minh City</productName>
+    <productID>PA442</productID>
+    <qty>1</qty>
+    <totalAmount>4.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Rosie</firstname>
+        <lastname>Tibbles</lastname>
+        <email>Rosie.Tibbles@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ho Chi Minh City</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9039</transactionId>
+    <productName>4.25x6 Product C Singapore</productName>
+    <productID>PA509</productID>
+    <qty>5</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Norma</firstname>
+        <lastname>Smith</lastname>
+        <email>Norma.Smith@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Singapore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9040</transactionId>
+    <productName>6x11 Product B Canberra</productName>
+    <productID>PA1735</productID>
+    <qty>6</qty>
+    <totalAmount>13.799999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Erik</firstname>
+        <lastname>Tillery</lastname>
+        <email>Erik.Tillery@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9041</transactionId>
+    <productName>4.25x6 Product C Kuala Lumpur</productName>
+    <productID>PA505</productID>
+    <qty>6</qty>
+    <totalAmount>9.600000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jane</firstname>
+        <lastname>Woods</lastname>
+        <email>Jane.Woods@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9042</transactionId>
+    <productName>4x6 Product A Kaohsiung</productName>
+    <productID>PA40</productID>
+    <qty>5</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Ralph</firstname>
+        <lastname>Echols</lastname>
+        <email>Ralph.Echols@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9043</transactionId>
+    <productName>6x9 Product B Delhi</productName>
+    <productID>PA1435</productID>
+    <qty>4</qty>
+    <totalAmount>16.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Julie</firstname>
+        <lastname>Foster</lastname>
+        <email>Julie.Foster@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Delhi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9044</transactionId>
+    <productName>4x6 Product E Chiba</productName>
+    <productID>PA275</productID>
+    <qty>2</qty>
+    <totalAmount>3.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Pohlman</lastname>
+        <email>Mary.Pohlman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chiba</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9045</transactionId>
+    <productName>6x11 Product E Adelaide</productName>
+    <productID>PA1931</productID>
+    <qty>5</qty>
+    <totalAmount>7.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Louise</firstname>
+        <lastname>Chapman</lastname>
+        <email>Louise.Chapman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9046</transactionId>
+    <productName>5.5x8.5 Product E Ahmedabad</productName>
+    <productID>PA1308</productID>
+    <qty>3</qty>
+    <totalAmount>5.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Dorothy</firstname>
+        <lastname>Overcash</lastname>
+        <email>Dorothy.Overcash@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9047</transactionId>
+    <productName>5x7 Product A Kawasaki</productName>
+    <productID>PA673</productID>
+    <qty>3</qty>
+    <totalAmount>4.800000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Lucille</firstname>
+        <lastname>Ceasar</lastname>
+        <email>Lucille.Ceasar@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9048</transactionId>
+    <productName>6x9 Product E Vientiane</productName>
+    <productID>PA1649</productID>
+    <qty>4</qty>
+    <totalAmount>12.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Geraldine</firstname>
+        <lastname>Conner</lastname>
+        <email>Geraldine.Conner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Vientiane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9049</transactionId>
+    <productName>4.25x6 Product B Canberra</productName>
+    <productID>PA415</productID>
+    <qty>1</qty>
+    <totalAmount>2.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Marvin</firstname>
+        <lastname>Alfaro</lastname>
+        <email>Marvin.Alfaro@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9050</transactionId>
+    <productName>6x11 Product B Sendai</productName>
+    <productID>PA1724</productID>
+    <qty>5</qty>
+    <totalAmount>17.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Edna</firstname>
+        <lastname>Lesser</lastname>
+        <email>Edna.Lesser@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sendai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9051</transactionId>
+    <productName>4.25x6 Product B Colombo</productName>
+    <productID>PA459</productID>
+    <qty>4</qty>
+    <totalAmount>14.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Glenna</firstname>
+        <lastname>Lopez</lastname>
+        <email>Glenna.Lopez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9052</transactionId>
+    <productName>5.5x8.5 Product A Dalian</productName>
+    <productID>PA1019</productID>
+    <qty>4</qty>
+    <totalAmount>16.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ruth</firstname>
+        <lastname>Radley</lastname>
+        <email>Ruth.Radley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9053</transactionId>
+    <productName>5x7 Product E Kuala Lumpur</productName>
+    <productID>PA967</productID>
+    <qty>1</qty>
+    <totalAmount>2.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>John</firstname>
+        <lastname>Brown</lastname>
+        <email>John.Brown@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9054</transactionId>
+    <productName>4x6 Product D Tokyo</productName>
+    <productID>PA199</productID>
+    <qty>4</qty>
+    <totalAmount>8.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Leonard</firstname>
+        <lastname>Smalls</lastname>
+        <email>Leonard.Smalls@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9055</transactionId>
+    <productName>4x6 Product E Surat</productName>
+    <productID>PA320</productID>
+    <qty>2</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Karen</firstname>
+        <lastname>Chance</lastname>
+        <email>Karen.Chance@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Surat</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9056</transactionId>
+    <productName>6x11 Product C Incheon</productName>
+    <productID>PA1809</productID>
+    <qty>4</qty>
+    <totalAmount>13.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>John</firstname>
+        <lastname>Palacios</lastname>
+        <email>John.Palacios@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Incheon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9057</transactionId>
+    <productName>5.5x8.5 Product E Yangon</productName>
+    <productID>PA1315</productID>
+    <qty>3</qty>
+    <totalAmount>5.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tammy</firstname>
+        <lastname>Schorr</lastname>
+        <email>Tammy.Schorr@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Yangon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9058</transactionId>
+    <productName>6x9 Product B Kawasaki</productName>
+    <productID>PA1399</productID>
+    <qty>3</qty>
+    <totalAmount>7.199999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Harold</firstname>
+        <lastname>Platt</lastname>
+        <email>Harold.Platt@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9059</transactionId>
+    <productName>5.5x8.5 Product C Dhaka</productName>
+    <productID>PA1182</productID>
+    <qty>1</qty>
+    <totalAmount>2.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Seay</lastname>
+        <email>Mary.Seay@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9060</transactionId>
+    <productName>4.25x6 Product E Brisbane</productName>
+    <productID>PA612</productID>
+    <qty>3</qty>
+    <totalAmount>9.600000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mignon</firstname>
+        <lastname>Stone</lastname>
+        <email>Mignon.Stone@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Brisbane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9061</transactionId>
+    <productName>6x9 Product D Darwin</productName>
+    <productID>PA1538</productID>
+    <qty>4</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Kuebler</lastname>
+        <email>William.Kuebler@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9062</transactionId>
+    <productName>6x9 Product B Hyderabad</productName>
+    <productID>PA1437</productID>
+    <qty>4</qty>
+    <totalAmount>11.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jenny</firstname>
+        <lastname>Monger</lastname>
+        <email>Jenny.Monger@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9063</transactionId>
+    <productName>5x7 Product E Kyoto</productName>
+    <productID>PA931</productID>
+    <qty>1</qty>
+    <totalAmount>2.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Searle</lastname>
+        <email>William.Searle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kyoto</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9064</transactionId>
+    <productName>4.25x6 Product D Hyderabad</productName>
+    <productID>PA579</productID>
+    <qty>6</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Laverne</firstname>
+        <lastname>Kahele</lastname>
+        <email>Laverne.Kahele@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9065</transactionId>
+    <productName>6x11 Product E Daegu</productName>
+    <productID>PA1942</productID>
+    <qty>2</qty>
+    <totalAmount>4.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Rebecca</firstname>
+        <lastname>Pressley</lastname>
+        <email>Rebecca.Pressley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Daegu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9066</transactionId>
+    <productName>4.25x6 Product A Sendai</productName>
+    <productID>PA338</productID>
+    <qty>4</qty>
+    <totalAmount>6.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Ernesto</firstname>
+        <lastname>Pressley</lastname>
+        <email>Ernesto.Pressley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sendai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9067</transactionId>
+    <productName>5x7 Product B Perth</productName>
+    <productID>PA749</productID>
+    <qty>5</qty>
+    <totalAmount>15.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Charlene</firstname>
+        <lastname>Jones</lastname>
+        <email>Charlene.Jones@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9068</transactionId>
+    <productName>5x7 Product E Brisbane</productName>
+    <productID>PA942</productID>
+    <qty>3</qty>
+    <totalAmount>11.100000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Kathleen</firstname>
+        <lastname>Rodriguez</lastname>
+        <email>Kathleen.Rodriguez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Brisbane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9069</transactionId>
+    <productName>5x7 Product E Ho Chi Minh City</productName>
+    <productID>PA970</productID>
+    <qty>4</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Denver</firstname>
+        <lastname>Shortridge</lastname>
+        <email>Denver.Shortridge@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ho Chi Minh City</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9070</transactionId>
+    <productName>4.25x6 Product D Adelaide</productName>
+    <productID>PA545</productID>
+    <qty>6</qty>
+    <totalAmount>22.200000000000003</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>April</firstname>
+        <lastname>Gaudette</lastname>
+        <email>April.Gaudette@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9071</transactionId>
+    <productName>5x7 Product B Hanoi</productName>
+    <productID>PA771</productID>
+    <qty>2</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Kara</firstname>
+        <lastname>Severy</lastname>
+        <email>Kara.Severy@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hanoi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9072</transactionId>
+    <productName>4.25x6 Product B Jakarta</productName>
+    <productID>PA438</productID>
+    <qty>5</qty>
+    <totalAmount>17.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Julie</firstname>
+        <lastname>Greene</lastname>
+        <email>Julie.Greene@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Jakarta</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9073</transactionId>
+    <productName>6x11 Product C Okayama</productName>
+    <productID>PA1797</productID>
+    <qty>2</qty>
+    <totalAmount>5.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sallie</firstname>
+        <lastname>Rudge</lastname>
+        <email>Sallie.Rudge@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Okayama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9074</transactionId>
+    <productName>6x9 Product C Hyderabad</productName>
+    <productID>PA1503</productID>
+    <qty>2</qty>
+    <totalAmount>8.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jenny</firstname>
+        <lastname>Bouldin</lastname>
+        <email>Jenny.Bouldin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9075</transactionId>
+    <productName>6x11 Product B Adelaide</productName>
+    <productID>PA1733</productID>
+    <qty>2</qty>
+    <totalAmount>7.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Barbara</firstname>
+        <lastname>Garczynski</lastname>
+        <email>Barbara.Garczynski@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9076</transactionId>
+    <productName>6x11 Product D Kathmandu</productName>
+    <productID>PA1910</productID>
+    <qty>3</qty>
+    <totalAmount>9.3</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Beverly</firstname>
+        <lastname>Bomar</lastname>
+        <email>Beverly.Bomar@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kathmandu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9077</transactionId>
+    <productName>6x11 Product D Tokyo</productName>
+    <productID>PA1849</productID>
+    <qty>1</qty>
+    <totalAmount>4.3</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Estella</firstname>
+        <lastname>Pohlman</lastname>
+        <email>Estella.Pohlman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9078</transactionId>
+    <productName>5x7 Product A Seoul</productName>
+    <productID>PA685</productID>
+    <qty>4</qty>
+    <totalAmount>11.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Joseph</firstname>
+        <lastname>Carlson</lastname>
+        <email>Joseph.Carlson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9079</transactionId>
+    <productName>4.25x6 Product D Kuala Lumpur</productName>
+    <productID>PA571</productID>
+    <qty>5</qty>
+    <totalAmount>16.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Lamar</firstname>
+        <lastname>Schmitz</lastname>
+        <email>Lamar.Schmitz@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9080</transactionId>
+    <productName>5x7 Product C Shanghai</productName>
+    <productID>PA823</productID>
+    <qty>2</qty>
+    <totalAmount>4.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Darren</firstname>
+        <lastname>Johnson</lastname>
+        <email>Darren.Johnson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9081</transactionId>
+    <productName>5.5x8.5 Product E Colombo</productName>
+    <productID>PA1317</productID>
+    <qty>1</qty>
+    <totalAmount>1.7</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Michael</firstname>
+        <lastname>Lemaster</lastname>
+        <email>Michael.Lemaster@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9082</transactionId>
+    <productName>4.25x6 Product A Hiroshima</productName>
+    <productID>PA339</productID>
+    <qty>3</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Heriberto</firstname>
+        <lastname>Carroll</lastname>
+        <email>Heriberto.Carroll@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9083</transactionId>
+    <productName>4.25x6 Product C Phnom Penh</productName>
+    <productID>PA526</productID>
+    <qty>5</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Melinda</firstname>
+        <lastname>Silver</lastname>
+        <email>Melinda.Silver@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Phnom Penh</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9084</transactionId>
+    <productName>5x7 Product D Chengdu</productName>
+    <productID>PA892</productID>
+    <qty>4</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Desiree</firstname>
+        <lastname>Wade</lastname>
+        <email>Desiree.Wade@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9085</transactionId>
+    <productName>4.25x6 Product D Chengdu</productName>
+    <productID>PA562</productID>
+    <qty>6</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tora</firstname>
+        <lastname>Roberts</lastname>
+        <email>Tora.Roberts@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9086</transactionId>
+    <productName>6x9 Product D Lahore</productName>
+    <productID>PA1576</productID>
+    <qty>2</qty>
+    <totalAmount>4.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Dorothy</firstname>
+        <lastname>Holman</lastname>
+        <email>Dorothy.Holman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Lahore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9087</transactionId>
+    <productName>6x9 Product B Kitakyushu</productName>
+    <productID>PA1398</productID>
+    <qty>6</qty>
+    <totalAmount>25.799999999999997</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Blaine</firstname>
+        <lastname>Clifton</lastname>
+        <email>Blaine.Clifton@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9088</transactionId>
+    <productName>4x6 Product C Phnom Penh</productName>
+    <productID>PA196</productID>
+    <qty>5</qty>
+    <totalAmount>14.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Willie</firstname>
+        <lastname>Prewitt</lastname>
+        <email>Willie.Prewitt@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Phnom Penh</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9089</transactionId>
+    <productName>6x9 Product D Ulaanbaatar</productName>
+    <productID>PA1584</productID>
+    <qty>1</qty>
+    <totalAmount>1.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Lewis</firstname>
+        <lastname>Keely</lastname>
+        <email>Lewis.Keely@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ulaanbaatar</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9090</transactionId>
+    <productName>5x7 Product C Sapporo</productName>
+    <productID>PA796</productID>
+    <qty>2</qty>
+    <totalAmount>4.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Carolyn</firstname>
+        <lastname>Crumrine</lastname>
+        <email>Carolyn.Crumrine@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9091</transactionId>
+    <productName>6x11 Product A Beijing</productName>
+    <productID>PA1680</productID>
+    <qty>3</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Dale</firstname>
+        <lastname>Lewis</lastname>
+        <email>Dale.Lewis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Beijing</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9092</transactionId>
+    <productName>6x9 Product E Delhi</productName>
+    <productID>PA1633</productID>
+    <qty>1</qty>
+    <totalAmount>3.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Sarah</firstname>
+        <lastname>Carroll</lastname>
+        <email>Sarah.Carroll@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Delhi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9093</transactionId>
+    <productName>4x6 Product D Sagamihara</productName>
+    <productID>PA212</productID>
+    <qty>3</qty>
+    <totalAmount>8.7</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Shelly</firstname>
+        <lastname>Messenger</lastname>
+        <email>Shelly.Messenger@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9094</transactionId>
+    <productName>6x11 Product C Islamabad</productName>
+    <productID>PA1841</productID>
+    <qty>3</qty>
+    <totalAmount>12.899999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Basham</lastname>
+        <email>Mary.Basham@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Islamabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9095</transactionId>
+    <productName>6x11 Product E Darwin</productName>
+    <productID>PA1934</productID>
+    <qty>6</qty>
+    <totalAmount>18.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Eva</firstname>
+        <lastname>Maynard</lastname>
+        <email>Eva.Maynard@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9096</transactionId>
+    <productName>5.5x8.5 Product A Surat</productName>
+    <productID>PA1046</productID>
+    <qty>5</qty>
+    <totalAmount>12.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Beverly</firstname>
+        <lastname>Cantrell</lastname>
+        <email>Beverly.Cantrell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Surat</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9097</transactionId>
+    <productName>5.5x8.5 Product B Chongqing</productName>
+    <productID>PA1092</productID>
+    <qty>2</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jeannette</firstname>
+        <lastname>Miller</lastname>
+        <email>Jeannette.Miller@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chongqing</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9098</transactionId>
+    <productName>5x7 Product D Adelaide</productName>
+    <productID>PA875</productID>
+    <qty>1</qty>
+    <totalAmount>2.9</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jacob</firstname>
+        <lastname>Pressley</lastname>
+        <email>Jacob.Pressley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9099</transactionId>
+    <productName>5x7 Product C Yangon</productName>
+    <productID>PA853</productID>
+    <qty>2</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Donald</firstname>
+        <lastname>Butler</lastname>
+        <email>Donald.Butler@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Yangon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9100</transactionId>
+    <productName>4x6 Product A Darwin</productName>
+    <productID>PA20</productID>
+    <qty>1</qty>
+    <totalAmount>3.1</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Maria</firstname>
+        <lastname>Flores</lastname>
+        <email>Maria.Flores@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9101</transactionId>
+    <productName>4.25x6 Product D Mumbai</productName>
+    <productID>PA576</productID>
+    <qty>3</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Debra</firstname>
+        <lastname>Tanner</lastname>
+        <email>Debra.Tanner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Mumbai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9102</transactionId>
+    <productName>6x11 Product D Fukuoka</productName>
+    <productID>PA1853</productID>
+    <qty>4</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Robert</firstname>
+        <lastname>Mauriello</lastname>
+        <email>Robert.Mauriello@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Fukuoka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9103</transactionId>
+    <productName>4.25x6 Product D Saitama</productName>
+    <productID>PA538</productID>
+    <qty>3</qty>
+    <totalAmount>8.100000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Teresa</firstname>
+        <lastname>Swarr</lastname>
+        <email>Teresa.Swarr@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Saitama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9104</transactionId>
+    <productName>6x11 Product B Melbourne</productName>
+    <productID>PA1738</productID>
+    <qty>2</qty>
+    <totalAmount>6.2</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Holly</firstname>
+        <lastname>Barrett</lastname>
+        <email>Holly.Barrett@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9105</transactionId>
+    <productName>5.5x8.5 Product C Ulaanbaatar</productName>
+    <productID>PA1188</productID>
+    <qty>4</qty>
+    <totalAmount>8.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Lynette</firstname>
+        <lastname>Valenzuela</lastname>
+        <email>Lynette.Valenzuela@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ulaanbaatar</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9106</transactionId>
+    <productName>4x6 Product A Chennai</productName>
+    <productID>PA53</productID>
+    <qty>6</qty>
+    <totalAmount>13.799999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>John</firstname>
+        <lastname>Paul</lastname>
+        <email>John.Paul@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chennai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9107</transactionId>
+    <productName>5.5x8.5 Product D Shanghai</productName>
+    <productID>PA1219</productID>
+    <qty>2</qty>
+    <totalAmount>4.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Samuel</firstname>
+        <lastname>Young</lastname>
+        <email>Samuel.Young@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9108</transactionId>
+    <productName>4x6 Product A Shanghai</productName>
+    <productID>PA31</productID>
+    <qty>3</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jamie</firstname>
+        <lastname>Woods</lastname>
+        <email>Jamie.Woods@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9109</transactionId>
+    <productName>5x7 Product C Kawasaki</productName>
+    <productID>PA805</productID>
+    <qty>6</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Haley</firstname>
+        <lastname>Towle</lastname>
+        <email>Haley.Towle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9110</transactionId>
+    <productName>4x6 Product D Tianjin</productName>
+    <productID>PA235</productID>
+    <qty>6</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Richards</lastname>
+        <email>Mary.Richards@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tianjin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9111</transactionId>
+    <productName>4.25x6 Product E Hiroshima</productName>
+    <productID>PA603</productID>
+    <qty>3</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Katrina</firstname>
+        <lastname>Colanero</lastname>
+        <email>Katrina.Colanero@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9112</transactionId>
+    <productName>6x11 Product E Kyoto</productName>
+    <productID>PA1921</productID>
+    <qty>5</qty>
+    <totalAmount>12.5</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jesus</firstname>
+        <lastname>Smith</lastname>
+        <email>Jesus.Smith@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kyoto</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9113</transactionId>
+    <productName>4.25x6 Product A Okayama</productName>
+    <productID>PA345</productID>
+    <qty>3</qty>
+    <totalAmount>7.800000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Hannah</firstname>
+        <lastname>Dangelo</lastname>
+        <email>Hannah.Dangelo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Okayama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9114</transactionId>
+    <productName>5.5x8.5 Product A Okayama</productName>
+    <productID>PA1005</productID>
+    <qty>1</qty>
+    <totalAmount>2.1</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Daniel</firstname>
+        <lastname>Calhoun</lastname>
+        <email>Daniel.Calhoun@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Okayama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9115</transactionId>
+    <productName>5.5x8.5 Product B Okayama</productName>
+    <productID>PA1071</productID>
+    <qty>3</qty>
+    <totalAmount>5.699999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Babino</lastname>
+        <email>James.Babino@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Okayama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9116</transactionId>
+    <productName>4x6 Product E Colombo</productName>
+    <productID>PA327</productID>
+    <qty>5</qty>
+    <totalAmount>19.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jeffrey</firstname>
+        <lastname>Collins</lastname>
+        <email>Jeffrey.Collins@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9117</transactionId>
+    <productName>4x6 Product A Perth</productName>
+    <productID>PA23</productID>
+    <qty>1</qty>
+    <totalAmount>2.1</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Thomas</firstname>
+        <lastname>Johnson</lastname>
+        <email>Thomas.Johnson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9118</transactionId>
+    <productName>4x6 Product B Seoul</productName>
+    <productID>PA91</productID>
+    <qty>4</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Cecilia</firstname>
+        <lastname>Babino</lastname>
+        <email>Cecilia.Babino@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9119</transactionId>
+    <productName>6x9 Product C Saitama</productName>
+    <productID>PA1462</productID>
+    <qty>6</qty>
+    <totalAmount>18.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Sharon</firstname>
+        <lastname>Murray</lastname>
+        <email>Sharon.Murray@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Saitama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9120</transactionId>
+    <productName>4.25x6 Product C Chongqing</productName>
+    <productID>PA498</productID>
+    <qty>5</qty>
+    <totalAmount>7.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sarah</firstname>
+        <lastname>Dupas</lastname>
+        <email>Sarah.Dupas@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chongqing</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9121</transactionId>
+    <productName>4x6 Product E Kaohsiung</productName>
+    <productID>PA304</productID>
+    <qty>1</qty>
+    <totalAmount>3.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ben</firstname>
+        <lastname>Swallow</lastname>
+        <email>Ben.Swallow@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9122</transactionId>
+    <productName>5x7 Product A Kawasaki</productName>
+    <productID>PA673</productID>
+    <qty>2</qty>
+    <totalAmount>3.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Dolores</firstname>
+        <lastname>Bates</lastname>
+        <email>Dolores.Bates@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9123</transactionId>
+    <productName>4x6 Product B Wuhan</productName>
+    <productID>PA101</productID>
+    <qty>6</qty>
+    <totalAmount>19.200000000000003</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Kim</firstname>
+        <lastname>Becker</lastname>
+        <email>Kim.Becker@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Wuhan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9124</transactionId>
+    <productName>6x9 Product E Chongqing</productName>
+    <productID>PA1620</productID>
+    <qty>4</qty>
+    <totalAmount>6.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jose</firstname>
+        <lastname>Eicher</lastname>
+        <email>Jose.Eicher@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chongqing</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9125</transactionId>
+    <productName>6x11 Product E Chengdu</productName>
+    <productID>PA1948</productID>
+    <qty>1</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Virginia</firstname>
+        <lastname>Chapman</lastname>
+        <email>Virginia.Chapman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9126</transactionId>
+    <productName>4x6 Product D Incheon</productName>
+    <productID>PA225</productID>
+    <qty>6</qty>
+    <totalAmount>16.200000000000003</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Lillian</firstname>
+        <lastname>Bogart</lastname>
+        <email>Lillian.Bogart@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Incheon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9127</transactionId>
+    <productName>6x9 Product D Shanghai</productName>
+    <productID>PA1549</productID>
+    <qty>6</qty>
+    <totalAmount>22.799999999999997</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Thomas</firstname>
+        <lastname>Bouldin</lastname>
+        <email>Thomas.Bouldin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9128</transactionId>
+    <productName>4.25x6 Product B Yangon</productName>
+    <productID>PA457</productID>
+    <qty>3</qty>
+    <totalAmount>11.100000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Ryan</firstname>
+        <lastname>Moore</lastname>
+        <email>Ryan.Moore@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Yangon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9129</transactionId>
+    <productName>6x9 Product D Perth</productName>
+    <productID>PA1541</productID>
+    <qty>5</qty>
+    <totalAmount>13.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Sarah</firstname>
+        <lastname>Bried</lastname>
+        <email>Sarah.Bried@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9130</transactionId>
+    <productName>6x11 Product C Hiroshima</productName>
+    <productID>PA1791</productID>
+    <qty>2</qty>
+    <totalAmount>8.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Casey</firstname>
+        <lastname>Jackson</lastname>
+        <email>Casey.Jackson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9131</transactionId>
+    <productName>6x11 Product C Darwin</productName>
+    <productID>PA1802</productID>
+    <qty>1</qty>
+    <totalAmount>3.9</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Antione</firstname>
+        <lastname>Stevens</lastname>
+        <email>Antione.Stevens@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9132</transactionId>
+    <productName>4.25x6 Product A Seoul</productName>
+    <productID>PA355</productID>
+    <qty>1</qty>
+    <totalAmount>4.3</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sarah</firstname>
+        <lastname>Tillery</lastname>
+        <email>Sarah.Tillery@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9133</transactionId>
+    <productName>5.5x8.5 Product A Naha</productName>
+    <productID>PA1006</productID>
+    <qty>2</qty>
+    <totalAmount>8.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sean</firstname>
+        <lastname>Haynes</lastname>
+        <email>Sean.Haynes@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9134</transactionId>
+    <productName>4x6 Product A Seoul</productName>
+    <productID>PA25</productID>
+    <qty>2</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Maria</firstname>
+        <lastname>Palacios</lastname>
+        <email>Maria.Palacios@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9135</transactionId>
+    <productName>4.25x6 Product A Guangzhou</productName>
+    <productID>PA363</productID>
+    <qty>3</qty>
+    <totalAmount>7.800000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Charles</firstname>
+        <lastname>Howard</lastname>
+        <email>Charles.Howard@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Guangzhou</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9136</transactionId>
+    <productName>5.5x8.5 Product A Phnom Penh</productName>
+    <productID>PA1054</productID>
+    <qty>6</qty>
+    <totalAmount>20.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Dorcas</firstname>
+        <lastname>Merritt</lastname>
+        <email>Dorcas.Merritt@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Phnom Penh</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9137</transactionId>
+    <productName>6x9 Product A Kathmandu</productName>
+    <productID>PA1382</productID>
+    <qty>6</qty>
+    <totalAmount>22.799999999999997</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Darlene</firstname>
+        <lastname>Campbell</lastname>
+        <email>Darlene.Campbell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kathmandu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9138</transactionId>
+    <productName>5x7 Product C Incheon</productName>
+    <productID>PA819</productID>
+    <qty>5</qty>
+    <totalAmount>16.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Melissa</firstname>
+        <lastname>Pate</lastname>
+        <email>Melissa.Pate@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Incheon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9139</transactionId>
+    <productName>5.5x8.5 Product A Colombo</productName>
+    <productID>PA1053</productID>
+    <qty>6</qty>
+    <totalAmount>19.200000000000003</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Kristina</firstname>
+        <lastname>Rabon</lastname>
+        <email>Kristina.Rabon@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9140</transactionId>
+    <productName>6x9 Product E Hyderabad</productName>
+    <productID>PA1635</productID>
+    <qty>2</qty>
+    <totalAmount>8.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Ruby</firstname>
+        <lastname>Richards</lastname>
+        <email>Ruby.Richards@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9141</transactionId>
+    <productName>4.25x6 Product D Mumbai</productName>
+    <productID>PA576</productID>
+    <qty>5</qty>
+    <totalAmount>10.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Debra</firstname>
+        <lastname>Brewer</lastname>
+        <email>Debra.Brewer@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Mumbai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9142</transactionId>
+    <productName>5.5x8.5 Product A Darwin</productName>
+    <productID>PA1010</productID>
+    <qty>4</qty>
+    <totalAmount>16.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Leland</firstname>
+        <lastname>Moreno</lastname>
+        <email>Leland.Moreno@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9143</transactionId>
+    <productName>4x6 Product D Kobe</productName>
+    <productID>PA204</productID>
+    <qty>6</qty>
+    <totalAmount>16.799999999999997</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Alyssa</firstname>
+        <lastname>Sevin</lastname>
+        <email>Alyssa.Sevin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kobe</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9144</transactionId>
+    <productName>4x6 Product D Hyderabad</productName>
+    <productID>PA249</productID>
+    <qty>5</qty>
+    <totalAmount>17.5</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Meghan</firstname>
+        <lastname>Rose</lastname>
+        <email>Meghan.Rose@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9145</transactionId>
+    <productName>5x7 Product B Hobart</productName>
+    <productID>PA747</productID>
+    <qty>3</qty>
+    <totalAmount>13.200000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Michael</firstname>
+        <lastname>Roberts</lastname>
+        <email>Michael.Roberts@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hobart</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9146</transactionId>
+    <productName>6x11 Product E Darwin</productName>
+    <productID>PA1934</productID>
+    <qty>1</qty>
+    <totalAmount>3.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Carolyn</firstname>
+        <lastname>Richardson</lastname>
+        <email>Carolyn.Richardson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9147</transactionId>
+    <productName>4.25x6 Product C Kolkata</productName>
+    <productID>PA514</productID>
+    <qty>2</qty>
+    <totalAmount>4.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Eric</firstname>
+        <lastname>Severy</lastname>
+        <email>Eric.Severy@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9148</transactionId>
+    <productName>6x11 Product E Phnom Penh</productName>
+    <productID>PA1978</productID>
+    <qty>3</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Julie</firstname>
+        <lastname>Jernigan</lastname>
+        <email>Julie.Jernigan@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Phnom Penh</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9149</transactionId>
+    <productName>4.25x6 Product C Dalian</productName>
+    <productID>PA491</productID>
+    <qty>1</qty>
+    <totalAmount>2.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Glenn</firstname>
+        <lastname>Mcdonald</lastname>
+        <email>Glenn.Mcdonald@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9150</transactionId>
+    <productName>5.5x8.5 Product D Perth</productName>
+    <productID>PA1211</productID>
+    <qty>1</qty>
+    <totalAmount>2.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jean</firstname>
+        <lastname>Watson</lastname>
+        <email>Jean.Watson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9151</transactionId>
+    <productName>6x11 Product C Nagoya</productName>
+    <productID>PA1785</productID>
+    <qty>1</qty>
+    <totalAmount>3.3</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Maureen</firstname>
+        <lastname>Campos</lastname>
+        <email>Maureen.Campos@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Nagoya</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9152</transactionId>
+    <productName>6x11 Product E Hanoi</productName>
+    <productID>PA1959</productID>
+    <qty>1</qty>
+    <totalAmount>1.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Eugene</firstname>
+        <lastname>Trussell</lastname>
+        <email>Eugene.Trussell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hanoi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9153</transactionId>
+    <productName>5x7 Product C Seoul</productName>
+    <productID>PA817</productID>
+    <qty>6</qty>
+    <totalAmount>14.399999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Bettie</firstname>
+        <lastname>Orr</lastname>
+        <email>Bettie.Orr@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9154</transactionId>
+    <productName>6x9 Product E Sagamihara</productName>
+    <productID>PA1598</productID>
+    <qty>6</qty>
+    <totalAmount>19.799999999999997</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Thomas</firstname>
+        <lastname>Garcia</lastname>
+        <email>Thomas.Garcia@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9155</transactionId>
+    <productName>4x6 Product D Dalian</productName>
+    <productID>PA227</productID>
+    <qty>5</qty>
+    <totalAmount>20.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tim</firstname>
+        <lastname>Sedlacek</lastname>
+        <email>Tim.Sedlacek@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9156</transactionId>
+    <productName>6x9 Product E Islamabad</productName>
+    <productID>PA1643</productID>
+    <qty>4</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Beatrice</firstname>
+        <lastname>Rabun</lastname>
+        <email>Beatrice.Rabun@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Islamabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9157</transactionId>
+    <productName>5x7 Product A Hiroshima</productName>
+    <productID>PA669</productID>
+    <qty>4</qty>
+    <totalAmount>13.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Elizabeth</firstname>
+        <lastname>Desoto</lastname>
+        <email>Elizabeth.Desoto@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9158</transactionId>
+    <productName>6x11 Product C Osaka</productName>
+    <productID>PA1784</productID>
+    <qty>3</qty>
+    <totalAmount>7.199999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Lewis</lastname>
+        <email>David.Lewis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Osaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9159</transactionId>
+    <productName>4.25x6 Product D Jakarta</productName>
+    <productID>PA570</productID>
+    <qty>2</qty>
+    <totalAmount>6.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Susan</firstname>
+        <lastname>Turner</lastname>
+        <email>Susan.Turner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Jakarta</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9160</transactionId>
+    <productName>4x6 Product A Jakarta</productName>
+    <productID>PA42</productID>
+    <qty>2</qty>
+    <totalAmount>4.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Rose</firstname>
+        <lastname>Long</lastname>
+        <email>Rose.Long@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Jakarta</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9161</transactionId>
+    <productName>4x6 Product D Kolkata</productName>
+    <productID>PA250</productID>
+    <qty>5</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Donald</firstname>
+        <lastname>Corral</lastname>
+        <email>Donald.Corral@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9162</transactionId>
+    <productName>5x7 Product A Canberra</productName>
+    <productID>PA679</productID>
+    <qty>3</qty>
+    <totalAmount>6.300000000000001</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Fermin</firstname>
+        <lastname>Pelayo</lastname>
+        <email>Fermin.Pelayo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9163</transactionId>
+    <productName>6x9 Product D Guangzhou</productName>
+    <productID>PA1551</productID>
+    <qty>3</qty>
+    <totalAmount>5.1</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Michael</firstname>
+        <lastname>Davis</lastname>
+        <email>Michael.Davis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Guangzhou</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9164</transactionId>
+    <productName>5.5x8.5 Product D Islamabad</productName>
+    <productID>PA1247</productID>
+    <qty>2</qty>
+    <totalAmount>5.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Nicholas</firstname>
+        <lastname>Ryan</lastname>
+        <email>Nicholas.Ryan@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Islamabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9165</transactionId>
+    <productName>4x6 Product E Sapporo</productName>
+    <productID>PA268</productID>
+    <qty>6</qty>
+    <totalAmount>21.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Charles</firstname>
+        <lastname>Basham</lastname>
+        <email>Charles.Basham@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9166</transactionId>
+    <productName>6x9 Product C Surat</productName>
+    <productID>PA1508</productID>
+    <qty>6</qty>
+    <totalAmount>11.399999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Rita</firstname>
+        <lastname>Fox</lastname>
+        <email>Rita.Fox@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Surat</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9167</transactionId>
+    <productName>4.25x6 Product D Perth</productName>
+    <productID>PA551</productID>
+    <qty>3</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Seth</firstname>
+        <lastname>Jenkins</lastname>
+        <email>Seth.Jenkins@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9168</transactionId>
+    <productName>4.25x6 Product D Yangon</productName>
+    <productID>PA589</productID>
+    <qty>5</qty>
+    <totalAmount>10.5</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Leanna</firstname>
+        <lastname>Ramirez</lastname>
+        <email>Leanna.Ramirez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Yangon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9169</transactionId>
+    <productName>6x11 Product C Jakarta</productName>
+    <productID>PA1824</productID>
+    <qty>6</qty>
+    <totalAmount>23.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Colin</firstname>
+        <lastname>Merritt</lastname>
+        <email>Colin.Merritt@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Jakarta</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9170</transactionId>
+    <productName>5.5x8.5 Product D Taipei</productName>
+    <productID>PA1227</productID>
+    <qty>3</qty>
+    <totalAmount>6.6000000000000005</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Timothy</firstname>
+        <lastname>Sagraves</lastname>
+        <email>Timothy.Sagraves@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Taipei</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9171</transactionId>
+    <productName>5.5x8.5 Product A Hobart</productName>
+    <productID>PA1011</productID>
+    <qty>2</qty>
+    <totalAmount>5.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Cynthia</firstname>
+        <lastname>Adams</lastname>
+        <email>Cynthia.Adams@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hobart</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9172</transactionId>
+    <productName>5.5x8.5 Product B Ahmedabad</productName>
+    <productID>PA1110</productID>
+    <qty>4</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Bess</firstname>
+        <lastname>Monday</lastname>
+        <email>Bess.Monday@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9173</transactionId>
+    <productName>6x9 Product E Tokyo</productName>
+    <productID>PA1585</productID>
+    <qty>4</qty>
+    <totalAmount>7.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jessica</firstname>
+        <lastname>Miser</lastname>
+        <email>Jessica.Miser@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9174</transactionId>
+    <productName>5x7 Product E Melbourne</productName>
+    <productID>PA946</productID>
+    <qty>6</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jane</firstname>
+        <lastname>Curry</lastname>
+        <email>Jane.Curry@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9175</transactionId>
+    <productName>5.5x8.5 Product A Hanoi</productName>
+    <productID>PA1035</productID>
+    <qty>5</qty>
+    <totalAmount>10.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Frank</firstname>
+        <lastname>Lockard</lastname>
+        <email>Frank.Lockard@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hanoi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9176</transactionId>
+    <productName>5x7 Product E Dhaka</productName>
+    <productID>PA984</productID>
+    <qty>5</qty>
+    <totalAmount>10.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ann</firstname>
+        <lastname>Faust</lastname>
+        <email>Ann.Faust@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9177</transactionId>
+    <productName>6x11 Product E Canberra</productName>
+    <productID>PA1933</productID>
+    <qty>1</qty>
+    <totalAmount>3.3</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Angela</firstname>
+        <lastname>Chapman</lastname>
+        <email>Angela.Chapman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9178</transactionId>
+    <productName>5x7 Product D Kitakyushu</productName>
+    <productID>PA870</productID>
+    <qty>6</qty>
+    <totalAmount>25.799999999999997</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Arnold</firstname>
+        <lastname>Martin</lastname>
+        <email>Arnold.Martin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9179</transactionId>
+    <productName>5x7 Product B Sapporo</productName>
+    <productID>PA730</productID>
+    <qty>5</qty>
+    <totalAmount>13.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Andrew</firstname>
+        <lastname>Childers</lastname>
+        <email>Andrew.Childers@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9180</transactionId>
+    <productName>4x6 Product B Kuala Lumpur</productName>
+    <productID>PA109</productID>
+    <qty>3</qty>
+    <totalAmount>5.699999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jerry</firstname>
+        <lastname>Bryant</lastname>
+        <email>Jerry.Bryant@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9181</transactionId>
+    <productName>5x7 Product A Hobart</productName>
+    <productID>PA681</productID>
+    <qty>3</qty>
+    <totalAmount>6.300000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jorge</firstname>
+        <lastname>Scarbrough</lastname>
+        <email>Jorge.Scarbrough@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hobart</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9182</transactionId>
+    <productName>5x7 Product A Kolkata</productName>
+    <productID>PA712</productID>
+    <qty>6</qty>
+    <totalAmount>16.799999999999997</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mark</firstname>
+        <lastname>Carter</lastname>
+        <email>Mark.Carter@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9183</transactionId>
+    <productName>6x11 Product A Singapore</productName>
+    <productID>PA1697</productID>
+    <qty>4</qty>
+    <totalAmount>12.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Koepsell</lastname>
+        <email>William.Koepsell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Singapore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9184</transactionId>
+    <productName>6x9 Product D Adelaide</productName>
+    <productID>PA1535</productID>
+    <qty>3</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Timothy</firstname>
+        <lastname>Daniels</lastname>
+        <email>Timothy.Daniels@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9185</transactionId>
+    <productName>5.5x8.5 Product C Karachi</productName>
+    <productID>PA1179</productID>
+    <qty>6</qty>
+    <totalAmount>25.200000000000003</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jose</firstname>
+        <lastname>Fogg</lastname>
+        <email>Jose.Fogg@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Karachi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9186</transactionId>
+    <productName>5x7 Product C Hyderabad</productName>
+    <productID>PA843</productID>
+    <qty>6</qty>
+    <totalAmount>23.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jack</firstname>
+        <lastname>Bundage</lastname>
+        <email>Jack.Bundage@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9187</transactionId>
+    <productName>6x11 Product D Canberra</productName>
+    <productID>PA1867</productID>
+    <qty>1</qty>
+    <totalAmount>3.9</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Christopher</firstname>
+        <lastname>Calhoun</lastname>
+        <email>Christopher.Calhoun@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9188</transactionId>
+    <productName>4x6 Product E Hong Kong</productName>
+    <productID>PA302</productID>
+    <qty>6</qty>
+    <totalAmount>12.600000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Daniel</firstname>
+        <lastname>George</lastname>
+        <email>Daniel.George@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hong Kong</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9189</transactionId>
+    <productName>5.5x8.5 Product D Brisbane</productName>
+    <productID>PA1206</productID>
+    <qty>6</qty>
+    <totalAmount>18.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Phillip</firstname>
+        <lastname>Hoyle</lastname>
+        <email>Phillip.Hoyle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Brisbane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9190</transactionId>
+    <productName>6x11 Product C Chennai</productName>
+    <productID>PA1835</productID>
+    <qty>4</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Erika</firstname>
+        <lastname>Collins</lastname>
+        <email>Erika.Collins@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chennai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9191</transactionId>
+    <productName>6x9 Product E Shenzhen</productName>
+    <productID>PA1616</productID>
+    <qty>1</qty>
+    <totalAmount>3.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Joseph</firstname>
+        <lastname>White</lastname>
+        <email>Joseph.White@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shenzhen</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9192</transactionId>
+    <productName>4x6 Product A Chongqing</productName>
+    <productID>PA36</productID>
+    <qty>6</qty>
+    <totalAmount>24.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Philip</firstname>
+        <lastname>Thaxton</lastname>
+        <email>Philip.Thaxton@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chongqing</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9193</transactionId>
+    <productName>5x7 Product E Seoul</productName>
+    <productID>PA949</productID>
+    <qty>6</qty>
+    <totalAmount>18.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Danette</firstname>
+        <lastname>Graham</lastname>
+        <email>Danette.Graham@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9194</transactionId>
+    <productName>4x6 Product E Sagamihara</productName>
+    <productID>PA278</productID>
+    <qty>1</qty>
+    <totalAmount>2.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Vernon</firstname>
+        <lastname>Lacy</lastname>
+        <email>Vernon.Lacy@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9195</transactionId>
+    <productName>5x7 Product E Karachi</productName>
+    <productID>PA981</productID>
+    <qty>1</qty>
+    <totalAmount>3.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jason</firstname>
+        <lastname>Mitchell</lastname>
+        <email>Jason.Mitchell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Karachi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9196</transactionId>
+    <productName>4x6 Product E Darwin</productName>
+    <productID>PA284</productID>
+    <qty>5</qty>
+    <totalAmount>19.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Bobby</firstname>
+        <lastname>Paviolitis</lastname>
+        <email>Bobby.Paviolitis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9197</transactionId>
+    <productName>6x11 Product A Canberra</productName>
+    <productID>PA1669</productID>
+    <qty>4</qty>
+    <totalAmount>12.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jasmine</firstname>
+        <lastname>Bucko</lastname>
+        <email>Jasmine.Bucko@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9198</transactionId>
+    <productName>6x9 Product B Kaohsiung</productName>
+    <productID>PA1426</productID>
+    <qty>5</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Beatrice</firstname>
+        <lastname>Wright</lastname>
+        <email>Beatrice.Wright@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9199</transactionId>
+    <productName>5x7 Product A Sagamihara</productName>
+    <productID>PA674</productID>
+    <qty>6</qty>
+    <totalAmount>11.399999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Norma</firstname>
+        <lastname>Macdougall</lastname>
+        <email>Norma.Macdougall@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9200</transactionId>
+    <productName>4x6 Product A Melbourne</productName>
+    <productID>PA22</productID>
+    <qty>1</qty>
+    <totalAmount>2.9</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Bruce</firstname>
+        <lastname>Fair</lastname>
+        <email>Bruce.Fair@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9201</transactionId>
+    <productName>5x7 Product C Hyderabad</productName>
+    <productID>PA843</productID>
+    <qty>5</qty>
+    <totalAmount>19.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Barbara</firstname>
+        <lastname>Anderson</lastname>
+        <email>Barbara.Anderson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9202</transactionId>
+    <productName>6x11 Product C Brisbane</productName>
+    <productID>PA1800</productID>
+    <qty>1</qty>
+    <totalAmount>1.7</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Lynette</firstname>
+        <lastname>Thomas</lastname>
+        <email>Lynette.Thomas@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Brisbane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9203</transactionId>
+    <productName>6x9 Product B Manila</productName>
+    <productID>PA1430</productID>
+    <qty>5</qty>
+    <totalAmount>18.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Carolyn</firstname>
+        <lastname>Midden</lastname>
+        <email>Carolyn.Midden@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Manila</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9204</transactionId>
+    <productName>6x11 Product B Mumbai</productName>
+    <productID>PA1764</productID>
+    <qty>2</qty>
+    <totalAmount>5.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Beverly</firstname>
+        <lastname>Noble</lastname>
+        <email>Beverly.Noble@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Mumbai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9205</transactionId>
+    <productName>6x11 Product A Osaka</productName>
+    <productID>PA1652</productID>
+    <qty>6</qty>
+    <totalAmount>21.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Lobianco</lastname>
+        <email>David.Lobianco@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Osaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9206</transactionId>
+    <productName>5x7 Product A Busan</productName>
+    <productID>PA686</productID>
+    <qty>2</qty>
+    <totalAmount>4.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Kathleen</firstname>
+        <lastname>Chavez</lastname>
+        <email>Kathleen.Chavez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9207</transactionId>
+    <productName>6x11 Product E Shanghai</productName>
+    <productID>PA1945</productID>
+    <qty>5</qty>
+    <totalAmount>13.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Frank</firstname>
+        <lastname>Franco</lastname>
+        <email>Frank.Franco@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9208</transactionId>
+    <productName>4.25x6 Product A Kaohsiung</productName>
+    <productID>PA370</productID>
+    <qty>2</qty>
+    <totalAmount>6.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Heather</firstname>
+        <lastname>Nelson</lastname>
+        <email>Heather.Nelson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9209</transactionId>
+    <productName>5.5x8.5 Product C Chengdu</productName>
+    <productID>PA1156</productID>
+    <qty>2</qty>
+    <totalAmount>3.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Corrine</firstname>
+        <lastname>Godinho</lastname>
+        <email>Corrine.Godinho@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9210</transactionId>
+    <productName>6x11 Product E Kitakyushu</productName>
+    <productID>PA1926</productID>
+    <qty>5</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Donald</firstname>
+        <lastname>Skinner</lastname>
+        <email>Donald.Skinner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9211</transactionId>
+    <productName>6x11 Product D Ahmedabad</productName>
+    <productID>PA1902</productID>
+    <qty>2</qty>
+    <totalAmount>6.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Carol</firstname>
+        <lastname>Boudreaux</lastname>
+        <email>Carol.Boudreaux@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9212</transactionId>
+    <productName>6x11 Product E Lahore</productName>
+    <productID>PA1972</productID>
+    <qty>1</qty>
+    <totalAmount>2.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Bettie</firstname>
+        <lastname>Bennett</lastname>
+        <email>Bettie.Bennett@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Lahore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9213</transactionId>
+    <productName>4x6 Product D Naha</productName>
+    <productID>PA214</productID>
+    <qty>5</qty>
+    <totalAmount>13.5</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Susan</firstname>
+        <lastname>Trevino</lastname>
+        <email>Susan.Trevino@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9214</transactionId>
+    <productName>4.25x6 Product B Busan</productName>
+    <productID>PA422</productID>
+    <qty>1</qty>
+    <totalAmount>2.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Margaret</firstname>
+        <lastname>Glessner</lastname>
+        <email>Margaret.Glessner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9215</transactionId>
+    <productName>5x7 Product A Darwin</productName>
+    <productID>PA680</productID>
+    <qty>6</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Carlene</firstname>
+        <lastname>Delafuente</lastname>
+        <email>Carlene.Delafuente@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9216</transactionId>
+    <productName>4x6 Product B Dalian</productName>
+    <productID>PA95</productID>
+    <qty>1</qty>
+    <totalAmount>3.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Grant</firstname>
+        <lastname>Cato</lastname>
+        <email>Grant.Cato@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9217</transactionId>
+    <productName>4x6 Product C Tokyo</productName>
+    <productID>PA133</productID>
+    <qty>5</qty>
+    <totalAmount>10.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Michael</firstname>
+        <lastname>Fogg</lastname>
+        <email>Michael.Fogg@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9218</transactionId>
+    <productName>6x11 Product D Sendai</productName>
+    <productID>PA1856</productID>
+    <qty>4</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Carolyn</firstname>
+        <lastname>Desoto</lastname>
+        <email>Carolyn.Desoto@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sendai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9219</transactionId>
+    <productName>6x11 Product E Busan</productName>
+    <productID>PA1940</productID>
+    <qty>6</qty>
+    <totalAmount>26.400000000000002</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Earnest</firstname>
+        <lastname>Carswell</lastname>
+        <email>Earnest.Carswell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9220</transactionId>
+    <productName>6x9 Product C Taipei</productName>
+    <productID>PA1491</productID>
+    <qty>5</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Charlene</firstname>
+        <lastname>Young</lastname>
+        <email>Charlene.Young@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Taipei</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9221</transactionId>
+    <productName>5x7 Product D Sagamihara</productName>
+    <productID>PA872</productID>
+    <qty>1</qty>
+    <totalAmount>4.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Lillian</firstname>
+        <lastname>Allen</lastname>
+        <email>Lillian.Allen@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9222</transactionId>
+    <productName>5x7 Product B Darwin</productName>
+    <productID>PA746</productID>
+    <qty>4</qty>
+    <totalAmount>16.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Clark</lastname>
+        <email>Mary.Clark@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9223</transactionId>
+    <productName>5x7 Product C Manila</productName>
+    <productID>PA836</productID>
+    <qty>3</qty>
+    <totalAmount>13.200000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Kathleen</firstname>
+        <lastname>Lowell</lastname>
+        <email>Kathleen.Lowell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Manila</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9224</transactionId>
+    <productName>5x7 Product E Kobe</productName>
+    <productID>PA930</productID>
+    <qty>2</qty>
+    <totalAmount>8.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jonathan</firstname>
+        <lastname>Sherrill</lastname>
+        <email>Jonathan.Sherrill@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kobe</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9225</transactionId>
+    <productName>5.5x8.5 Product A Adelaide</productName>
+    <productID>PA1007</productID>
+    <qty>4</qty>
+    <totalAmount>9.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Maria</firstname>
+        <lastname>Huling</lastname>
+        <email>Maria.Huling@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9226</transactionId>
+    <productName>6x9 Product D Ahmedabad</productName>
+    <productID>PA1572</productID>
+    <qty>2</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Paul</firstname>
+        <lastname>Jones</lastname>
+        <email>Paul.Jones@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9227</transactionId>
+    <productName>6x11 Product D Bangalore</productName>
+    <productID>PA1898</productID>
+    <qty>4</qty>
+    <totalAmount>17.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Howard</firstname>
+        <lastname>Peeples</lastname>
+        <email>Howard.Peeples@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangalore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9228</transactionId>
+    <productName>4x6 Product C Kolkata</productName>
+    <productID>PA184</productID>
+    <qty>5</qty>
+    <totalAmount>21.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Bobby</firstname>
+        <lastname>Chance</lastname>
+        <email>Bobby.Chance@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9229</transactionId>
+    <productName>5x7 Product C Sendai</productName>
+    <productID>PA800</productID>
+    <qty>3</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Lewis</lastname>
+        <email>William.Lewis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sendai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9230</transactionId>
+    <productName>4.25x6 Product A Fukuoka</productName>
+    <productID>PA335</productID>
+    <qty>4</qty>
+    <totalAmount>17.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Roger</firstname>
+        <lastname>Adams</lastname>
+        <email>Roger.Adams@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Fukuoka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9231</transactionId>
+    <productName>4.25x6 Product B Karachi</productName>
+    <productID>PA453</productID>
+    <qty>1</qty>
+    <totalAmount>4.3</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Melba</firstname>
+        <lastname>Riggs</lastname>
+        <email>Melba.Riggs@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Karachi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9232</transactionId>
+    <productName>4x6 Product E Dhaka</productName>
+    <productID>PA324</productID>
+    <qty>3</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Juan</firstname>
+        <lastname>Robison</lastname>
+        <email>Juan.Robison@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9233</transactionId>
+    <productName>5.5x8.5 Product D Chiba</productName>
+    <productID>PA1199</productID>
+    <qty>1</qty>
+    <totalAmount>2.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jean</firstname>
+        <lastname>Chisholm</lastname>
+        <email>Jean.Chisholm@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chiba</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9234</transactionId>
+    <productName>4.25x6 Product D Ulaanbaatar</productName>
+    <productID>PA594</productID>
+    <qty>3</qty>
+    <totalAmount>6.8999999999999995</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Caitlin</firstname>
+        <lastname>Engle</lastname>
+        <email>Caitlin.Engle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ulaanbaatar</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9235</transactionId>
+    <productName>5x7 Product A Ahmedabad</productName>
+    <productID>PA714</productID>
+    <qty>3</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ben</firstname>
+        <lastname>Person</lastname>
+        <email>Ben.Person@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9236</transactionId>
+    <productName>5x7 Product A Sagamihara</productName>
+    <productID>PA674</productID>
+    <qty>2</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Wendi</firstname>
+        <lastname>Parks</lastname>
+        <email>Wendi.Parks@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9237</transactionId>
+    <productName>6x9 Product D Mumbai</productName>
+    <productID>PA1566</productID>
+    <qty>5</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Amanda</firstname>
+        <lastname>Chalifoux</lastname>
+        <email>Amanda.Chalifoux@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Mumbai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9238</transactionId>
+    <productName>5.5x8.5 Product A Kyoto</productName>
+    <productID>PA997</productID>
+    <qty>3</qty>
+    <totalAmount>7.199999999999999</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jasper</firstname>
+        <lastname>Aleo</lastname>
+        <email>Jasper.Aleo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kyoto</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9239</transactionId>
+    <productName>6x9 Product D Shanghai</productName>
+    <productID>PA1549</productID>
+    <qty>5</qty>
+    <totalAmount>19.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Brenda</firstname>
+        <lastname>Kuebler</lastname>
+        <email>Brenda.Kuebler@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9240</transactionId>
+    <productName>5.5x8.5 Product C Sagamihara</productName>
+    <productID>PA1136</productID>
+    <qty>1</qty>
+    <totalAmount>3.1</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sydney</firstname>
+        <lastname>Coletti</lastname>
+        <email>Sydney.Coletti@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sagamihara</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9241</transactionId>
+    <productName>6x9 Product A Sapporo</productName>
+    <productID>PA1324</productID>
+    <qty>1</qty>
+    <totalAmount>2.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Matthew</firstname>
+        <lastname>Lobb</lastname>
+        <email>Matthew.Lobb@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9242</transactionId>
+    <productName>5.5x8.5 Product A Kyoto</productName>
+    <productID>PA997</productID>
+    <qty>1</qty>
+    <totalAmount>2.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Barbara</firstname>
+        <lastname>Perez</lastname>
+        <email>Barbara.Perez@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kyoto</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9243</transactionId>
+    <productName>4x6 Product C Kobe</productName>
+    <productID>PA138</productID>
+    <qty>3</qty>
+    <totalAmount>6.6000000000000005</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Shawn</firstname>
+        <lastname>Sherrill</lastname>
+        <email>Shawn.Sherrill@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kobe</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9244</transactionId>
+    <productName>6x9 Product A Naha</productName>
+    <productID>PA1336</productID>
+    <qty>1</qty>
+    <totalAmount>2.7</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Troy</firstname>
+        <lastname>Rendon</lastname>
+        <email>Troy.Rendon@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9245</transactionId>
+    <productName>4.25x6 Product B Nagoya</productName>
+    <productID>PA399</productID>
+    <qty>5</qty>
+    <totalAmount>16.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Frank</lastname>
+        <email>James.Frank@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Nagoya</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9246</transactionId>
+    <productName>5x7 Product E Vientiane</productName>
+    <productID>PA989</productID>
+    <qty>3</qty>
+    <totalAmount>9.3</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Michael</firstname>
+        <lastname>Cavazos</lastname>
+        <email>Michael.Cavazos@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Vientiane</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9247</transactionId>
+    <productName>6x9 Product A Naha</productName>
+    <productID>PA1336</productID>
+    <qty>4</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Teresa</firstname>
+        <lastname>Brown</lastname>
+        <email>Teresa.Brown@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9248</transactionId>
+    <productName>4.25x6 Product E Adelaide</productName>
+    <productID>PA611</productID>
+    <qty>6</qty>
+    <totalAmount>15.600000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Teresa</firstname>
+        <lastname>Obryan</lastname>
+        <email>Teresa.Obryan@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9249</transactionId>
+    <productName>6x9 Product B Canberra</productName>
+    <productID>PA1405</productID>
+    <qty>5</qty>
+    <totalAmount>22.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Kathy</firstname>
+        <lastname>Hartley</lastname>
+        <email>Kathy.Hartley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9250</transactionId>
+    <productName>4x6 Product A Sendai</productName>
+    <productID>PA8</productID>
+    <qty>3</qty>
+    <totalAmount>6.300000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jeffrey</firstname>
+        <lastname>Foreman</lastname>
+        <email>Jeffrey.Foreman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sendai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9251</transactionId>
+    <productName>6x11 Product D Jakarta</productName>
+    <productID>PA1890</productID>
+    <qty>3</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Bessie</firstname>
+        <lastname>Chapman</lastname>
+        <email>Bessie.Chapman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Jakarta</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9252</transactionId>
+    <productName>5x7 Product D Okayama</productName>
+    <productID>PA873</productID>
+    <qty>1</qty>
+    <totalAmount>4.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Bernard</firstname>
+        <lastname>Hinderliter</lastname>
+        <email>Bernard.Hinderliter@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Okayama</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9253</transactionId>
+    <productName>6x9 Product A Busan</productName>
+    <productID>PA1346</productID>
+    <qty>1</qty>
+    <totalAmount>3.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Taunya</firstname>
+        <lastname>Williams</lastname>
+        <email>Taunya.Williams@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9254</transactionId>
+    <productName>4x6 Product E Dalian</productName>
+    <productID>PA293</productID>
+    <qty>3</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Steven</firstname>
+        <lastname>Mcmeen</lastname>
+        <email>Steven.Mcmeen@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9255</transactionId>
+    <productName>4.25x6 Product D Hiroshima</productName>
+    <productID>PA537</productID>
+    <qty>2</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Randy</firstname>
+        <lastname>Maldonado</lastname>
+        <email>Randy.Maldonado@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9256</transactionId>
+    <productName>6x11 Product C Bangkok</productName>
+    <productID>PA1823</productID>
+    <qty>4</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Frances</firstname>
+        <lastname>Erwin</lastname>
+        <email>Frances.Erwin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangkok</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9257</transactionId>
+    <productName>6x9 Product A Melbourne</productName>
+    <productID>PA1342</productID>
+    <qty>1</qty>
+    <totalAmount>3.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jesus</firstname>
+        <lastname>Wade</lastname>
+        <email>Jesus.Wade@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9258</transactionId>
+    <productName>6x9 Product A Hiroshima</productName>
+    <productID>PA1329</productID>
+    <qty>3</qty>
+    <totalAmount>5.699999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Eleanor</firstname>
+        <lastname>Mauriello</lastname>
+        <email>Eleanor.Mauriello@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9259</transactionId>
+    <productName>4.25x6 Product C Kawasaki</productName>
+    <productID>PA475</productID>
+    <qty>5</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Edna</firstname>
+        <lastname>Riggs</lastname>
+        <email>Edna.Riggs@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9260</transactionId>
+    <productName>4.25x6 Product B Perth</productName>
+    <productID>PA419</productID>
+    <qty>6</qty>
+    <totalAmount>14.399999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Rutherford</lastname>
+        <email>William.Rutherford@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9261</transactionId>
+    <productName>5x7 Product D Wuhan</productName>
+    <productID>PA893</productID>
+    <qty>2</qty>
+    <totalAmount>7.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Tammy</firstname>
+        <lastname>Gadberry</lastname>
+        <email>Tammy.Gadberry@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Wuhan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9262</transactionId>
+    <productName>6x11 Product E Melbourne</productName>
+    <productID>PA1936</productID>
+    <qty>6</qty>
+    <totalAmount>17.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Nellie</firstname>
+        <lastname>Robertson</lastname>
+        <email>Nellie.Robertson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9263</transactionId>
+    <productName>5x7 Product C Islamabad</productName>
+    <productID>PA851</productID>
+    <qty>2</qty>
+    <totalAmount>4.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Mac</firstname>
+        <lastname>Johnson</lastname>
+        <email>Mac.Johnson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Islamabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9264</transactionId>
+    <productName>4.25x6 Product C Kathmandu</productName>
+    <productID>PA524</productID>
+    <qty>6</qty>
+    <totalAmount>16.200000000000003</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Madeleine</firstname>
+        <lastname>Venable</lastname>
+        <email>Madeleine.Venable@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kathmandu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9265</transactionId>
+    <productName>6x11 Product C Kolkata</productName>
+    <productID>PA1834</productID>
+    <qty>6</qty>
+    <totalAmount>10.2</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Pearl</firstname>
+        <lastname>Herring</lastname>
+        <email>Pearl.Herring@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9266</transactionId>
+    <productName>4x6 Product B Chiba</productName>
+    <productID>PA77</productID>
+    <qty>5</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Roger</firstname>
+        <lastname>Hodges</lastname>
+        <email>Roger.Hodges@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chiba</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9267</transactionId>
+    <productName>6x9 Product C Canberra</productName>
+    <productID>PA1471</productID>
+    <qty>2</qty>
+    <totalAmount>5.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Louise</firstname>
+        <lastname>Lord</lastname>
+        <email>Louise.Lord@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Canberra</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9268</transactionId>
+    <productName>6x9 Product C Kawasaki</productName>
+    <productID>PA1465</productID>
+    <qty>2</qty>
+    <totalAmount>4.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tammy</firstname>
+        <lastname>Piccirillo</lastname>
+        <email>Tammy.Piccirillo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9269</transactionId>
+    <productName>4x6 Product D Kitakyushu</productName>
+    <productID>PA210</productID>
+    <qty>4</qty>
+    <totalAmount>16.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jan</firstname>
+        <lastname>Ogrady</lastname>
+        <email>Jan.Ogrady@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9270</transactionId>
+    <productName>5.5x8.5 Product E Yangon</productName>
+    <productID>PA1315</productID>
+    <qty>4</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Diane</firstname>
+        <lastname>Godinho</lastname>
+        <email>Diane.Godinho@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Yangon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9271</transactionId>
+    <productName>4x6 Product E Sapporo</productName>
+    <productID>PA268</productID>
+    <qty>6</qty>
+    <totalAmount>21.6</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Terry</firstname>
+        <lastname>Xiong</lastname>
+        <email>Terry.Xiong@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9272</transactionId>
+    <productName>4x6 Product D Shenzhen</productName>
+    <productID>PA230</productID>
+    <qty>2</qty>
+    <totalAmount>4.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Andrew</firstname>
+        <lastname>Hurst</lastname>
+        <email>Andrew.Hurst@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shenzhen</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9273</transactionId>
+    <productName>6x9 Product A Hiroshima</productName>
+    <productID>PA1329</productID>
+    <qty>1</qty>
+    <totalAmount>1.9</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Kristina</firstname>
+        <lastname>Conner</lastname>
+        <email>Kristina.Conner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9274</transactionId>
+    <productName>4.25x6 Product B Nagoya</productName>
+    <productID>PA399</productID>
+    <qty>3</qty>
+    <totalAmount>9.899999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Melita</firstname>
+        <lastname>Dickens</lastname>
+        <email>Melita.Dickens@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Nagoya</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9275</transactionId>
+    <productName>6x11 Product D Surat</productName>
+    <productID>PA1904</productID>
+    <qty>6</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Buddy</firstname>
+        <lastname>Burke</lastname>
+        <email>Buddy.Burke@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Surat</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9276</transactionId>
+    <productName>5.5x8.5 Product D Tokyo</productName>
+    <productID>PA1189</productID>
+    <qty>5</qty>
+    <totalAmount>9.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Loretta</firstname>
+        <lastname>Richardson</lastname>
+        <email>Loretta.Richardson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9277</transactionId>
+    <productName>4x6 Product B Bangkok</productName>
+    <productID>PA107</productID>
+    <qty>5</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Stephanie</firstname>
+        <lastname>Nagle</lastname>
+        <email>Stephanie.Nagle@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangkok</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9278</transactionId>
+    <productName>6x9 Product E Dalian</productName>
+    <productID>PA1613</productID>
+    <qty>2</qty>
+    <totalAmount>7.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ivan</firstname>
+        <lastname>Rico</lastname>
+        <email>Ivan.Rico@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dalian</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9279</transactionId>
+    <productName>5.5x8.5 Product A Kolkata</productName>
+    <productID>PA1042</productID>
+    <qty>1</qty>
+    <totalAmount>2.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Matthew</firstname>
+        <lastname>Pecoraro</lastname>
+        <email>Matthew.Pecoraro@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9280</transactionId>
+    <productName>5.5x8.5 Product D Kobe</productName>
+    <productID>PA1194</productID>
+    <qty>2</qty>
+    <totalAmount>3.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Jessica</firstname>
+        <lastname>Rudge</lastname>
+        <email>Jessica.Rudge@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kobe</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9281</transactionId>
+    <productName>5.5x8.5 Product A Colombo</productName>
+    <productID>PA1053</productID>
+    <qty>6</qty>
+    <totalAmount>19.200000000000003</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Peter</firstname>
+        <lastname>Biggs</lastname>
+        <email>Peter.Biggs@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9282</transactionId>
+    <productName>6x9 Product A Kolkata</productName>
+    <productID>PA1372</productID>
+    <qty>2</qty>
+    <totalAmount>7.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Wade</firstname>
+        <lastname>Bragdon</lastname>
+        <email>Wade.Bragdon@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kolkata</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9283</transactionId>
+    <productName>5.5x8.5 Product C Shanghai</productName>
+    <productID>PA1153</productID>
+    <qty>5</qty>
+    <totalAmount>17.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Matthew</firstname>
+        <lastname>Coy</lastname>
+        <email>Matthew.Coy@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Shanghai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9284</transactionId>
+    <productName>5.5x8.5 Product D Hyderabad</productName>
+    <productID>PA1239</productID>
+    <qty>4</qty>
+    <totalAmount>14.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Madeleine</firstname>
+        <lastname>Glessner</lastname>
+        <email>Madeleine.Glessner@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9285</transactionId>
+    <productName>4.25x6 Product E Hyderabad</productName>
+    <productID>PA645</productID>
+    <qty>1</qty>
+    <totalAmount>4.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Thomas</firstname>
+        <lastname>Davis</lastname>
+        <email>Thomas.Davis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hyderabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9286</transactionId>
+    <productName>6x9 Product E Ahmedabad</productName>
+    <productID>PA1638</productID>
+    <qty>4</qty>
+    <totalAmount>7.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Sarah</firstname>
+        <lastname>Murtha</lastname>
+        <email>Sarah.Murtha@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9287</transactionId>
+    <productName>6x11 Product D Singapore</productName>
+    <productID>PA1895</productID>
+    <qty>3</qty>
+    <totalAmount>12.299999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Willie</firstname>
+        <lastname>Sharp</lastname>
+        <email>Willie.Sharp@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Singapore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9288</transactionId>
+    <productName>4x6 Product B Perth</productName>
+    <productID>PA89</productID>
+    <qty>2</qty>
+    <totalAmount>3.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Micheal</firstname>
+        <lastname>Lockett</lastname>
+        <email>Micheal.Lockett@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9289</transactionId>
+    <productName>5.5x8.5 Product A Islamabad</productName>
+    <productID>PA1049</productID>
+    <qty>3</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Edna</firstname>
+        <lastname>Charles</lastname>
+        <email>Edna.Charles@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Islamabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9290</transactionId>
+    <productName>4x6 Product A Delhi</productName>
+    <productID>PA49</productID>
+    <qty>3</qty>
+    <totalAmount>6.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Rose</firstname>
+        <lastname>Harris</lastname>
+        <email>Rose.Harris@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Delhi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9291</transactionId>
+    <productName>4x6 Product C Chennai</productName>
+    <productID>PA185</productID>
+    <qty>6</qty>
+    <totalAmount>16.799999999999997</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Peter</firstname>
+        <lastname>Pohlman</lastname>
+        <email>Peter.Pohlman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chennai</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9292</transactionId>
+    <productName>5.5x8.5 Product B Busan</productName>
+    <productID>PA1082</productID>
+    <qty>2</qty>
+    <totalAmount>7.4</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Kathleen</firstname>
+        <lastname>Alfaro</lastname>
+        <email>Kathleen.Alfaro@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Busan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9293</transactionId>
+    <productName>4x6 Product E Dhaka</productName>
+    <productID>PA324</productID>
+    <qty>3</qty>
+    <totalAmount>9.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Renken</lastname>
+        <email>David.Renken@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9294</transactionId>
+    <productName>4.25x6 Product C Pune</productName>
+    <productID>PA517</productID>
+    <qty>4</qty>
+    <totalAmount>14.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Douglas</lastname>
+        <email>David.Douglas@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Pune</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9295</transactionId>
+    <productName>5x7 Product D Kathmandu</productName>
+    <productID>PA920</productID>
+    <qty>1</qty>
+    <totalAmount>1.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Sandra</firstname>
+        <lastname>Jones</lastname>
+        <email>Sandra.Jones@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kathmandu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9296</transactionId>
+    <productName>5.5x8.5 Product A Chiba</productName>
+    <productID>PA1001</productID>
+    <qty>1</qty>
+    <totalAmount>4.1</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Janie</firstname>
+        <lastname>Allen</lastname>
+        <email>Janie.Allen@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chiba</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9297</transactionId>
+    <productName>4.25x6 Product D Darwin</productName>
+    <productID>PA548</productID>
+    <qty>3</qty>
+    <totalAmount>8.7</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Mary</firstname>
+        <lastname>Peters</lastname>
+        <email>Mary.Peters@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9298</transactionId>
+    <productName>5x7 Product A Adelaide</productName>
+    <productID>PA677</productID>
+    <qty>5</qty>
+    <totalAmount>21.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jo</firstname>
+        <lastname>Stier</lastname>
+        <email>Jo.Stier@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Adelaide</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9299</transactionId>
+    <productName>5.5x8.5 Product B Tianjin</productName>
+    <productID>PA1093</productID>
+    <qty>5</qty>
+    <totalAmount>13.5</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Vernon</firstname>
+        <lastname>Weaver</lastname>
+        <email>Vernon.Weaver@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tianjin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9300</transactionId>
+    <productName>4x6 Product E Hobart</productName>
+    <productID>PA285</productID>
+    <qty>6</qty>
+    <totalAmount>15.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Miller</lastname>
+        <email>James.Miller@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hobart</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9301</transactionId>
+    <productName>6x9 Product D Wuhan</productName>
+    <productID>PA1553</productID>
+    <qty>1</qty>
+    <totalAmount>3.6</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Brandi</firstname>
+        <lastname>Pasche</lastname>
+        <email>Brandi.Pasche@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Wuhan</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9302</transactionId>
+    <productName>5.5x8.5 Product E Incheon</productName>
+    <productID>PA1281</productID>
+    <qty>4</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Shirley</firstname>
+        <lastname>Wheeler</lastname>
+        <email>Shirley.Wheeler@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Incheon</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9303</transactionId>
+    <productName>5.5x8.5 Product A Dhaka</productName>
+    <productID>PA1050</productID>
+    <qty>5</qty>
+    <totalAmount>10.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Gail</firstname>
+        <lastname>Bates</lastname>
+        <email>Gail.Bates@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9304</transactionId>
+    <productName>4x6 Product E Ahmedabad</productName>
+    <productID>PA318</productID>
+    <qty>5</qty>
+    <totalAmount>18.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Ralph</firstname>
+        <lastname>Carswell</lastname>
+        <email>Ralph.Carswell@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9305</transactionId>
+    <productName>6x9 Product A Chiba</productName>
+    <productID>PA1331</productID>
+    <qty>5</qty>
+    <totalAmount>19.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Samuel</firstname>
+        <lastname>Acevedo</lastname>
+        <email>Samuel.Acevedo@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chiba</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9306</transactionId>
+    <productName>4.25x6 Product C Darwin</productName>
+    <productID>PA482</productID>
+    <qty>5</qty>
+    <totalAmount>15.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>June</firstname>
+        <lastname>Corral</lastname>
+        <email>June.Corral@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9307</transactionId>
+    <productName>4x6 Product A Kitakyushu</productName>
+    <productID>PA12</productID>
+    <qty>3</qty>
+    <totalAmount>10.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Melinda</firstname>
+        <lastname>Winnen</lastname>
+        <email>Melinda.Winnen@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9308</transactionId>
+    <productName>6x9 Product E Bangalore</productName>
+    <productID>PA1634</productID>
+    <qty>6</qty>
+    <totalAmount>24.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Linda</firstname>
+        <lastname>Webb</lastname>
+        <email>Linda.Webb@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangalore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9309</transactionId>
+    <productName>4x6 Product D Hanoi</productName>
+    <productID>PA243</productID>
+    <qty>3</qty>
+    <totalAmount>8.7</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Mario</firstname>
+        <lastname>Lesh</lastname>
+        <email>Mario.Lesh@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hanoi</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9310</transactionId>
+    <productName>6x9 Product A Bangalore</productName>
+    <productID>PA1370</productID>
+    <qty>3</qty>
+    <totalAmount>9.899999999999999</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jack</firstname>
+        <lastname>Frank</lastname>
+        <email>Jack.Frank@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangalore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9311</transactionId>
+    <productName>6x11 Product E Chengdu</productName>
+    <productID>PA1948</productID>
+    <qty>1</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Rose</firstname>
+        <lastname>Davis</lastname>
+        <email>Rose.Davis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9312</transactionId>
+    <productName>6x9 Product B Sapporo</productName>
+    <productID>PA1390</productID>
+    <qty>4</qty>
+    <totalAmount>16.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Daniel</firstname>
+        <lastname>Howard</lastname>
+        <email>Daniel.Howard@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9313</transactionId>
+    <productName>5x7 Product D Bangalore</productName>
+    <productID>PA908</productID>
+    <qty>1</qty>
+    <totalAmount>1.7</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Karl</firstname>
+        <lastname>Tornquist</lastname>
+        <email>Karl.Tornquist@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Bangalore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9314</transactionId>
+    <productName>4.25x6 Product A Pune</productName>
+    <productID>PA385</productID>
+    <qty>3</qty>
+    <totalAmount>6.8999999999999995</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>James</firstname>
+        <lastname>Mccord</lastname>
+        <email>James.Mccord@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Pune</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9315</transactionId>
+    <productName>5.5x8.5 Product D Guangzhou</productName>
+    <productID>PA1221</productID>
+    <qty>3</qty>
+    <totalAmount>6.8999999999999995</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Guest</lastname>
+        <email>David.Guest@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Guangzhou</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9316</transactionId>
+    <productName>5.5x8.5 Product B Tianjin</productName>
+    <productID>PA1093</productID>
+    <qty>5</qty>
+    <totalAmount>13.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Donna</firstname>
+        <lastname>Gorton</lastname>
+        <email>Donna.Gorton@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tianjin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9317</transactionId>
+    <productName>5.5x8.5 Product E Sapporo</productName>
+    <productID>PA1258</productID>
+    <qty>2</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Frank</firstname>
+        <lastname>Notis</lastname>
+        <email>Frank.Notis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9318</transactionId>
+    <productName>6x9 Product B Naha</productName>
+    <productID>PA1402</productID>
+    <qty>3</qty>
+    <totalAmount>9.600000000000001</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Sam</firstname>
+        <lastname>Partee</lastname>
+        <email>Sam.Partee@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Naha</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9319</transactionId>
+    <productName>4.25x6 Product A Kawasaki</productName>
+    <productID>PA343</productID>
+    <qty>4</qty>
+    <totalAmount>6.8</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Julia</firstname>
+        <lastname>Stanley</lastname>
+        <email>Julia.Stanley@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kawasaki</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9320</transactionId>
+    <productName>5x7 Product C Kaohsiung</productName>
+    <productID>PA832</productID>
+    <qty>2</qty>
+    <totalAmount>8.8</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Alice</firstname>
+        <lastname>Roberts</lastname>
+        <email>Alice.Roberts@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kaohsiung</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9321</transactionId>
+    <productName>4x6 Product A Daegu</productName>
+    <productID>PA28</productID>
+    <qty>5</qty>
+    <totalAmount>14.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Thomas</firstname>
+        <lastname>Hall</lastname>
+        <email>Thomas.Hall@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Daegu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9322</transactionId>
+    <productName>6x11 Product D Singapore</productName>
+    <productID>PA1895</productID>
+    <qty>3</qty>
+    <totalAmount>12.299999999999999</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Monica</firstname>
+        <lastname>Sault</lastname>
+        <email>Monica.Sault@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Singapore</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9323</transactionId>
+    <productName>4x6 Product C Ahmedabad</productName>
+    <productID>PA186</productID>
+    <qty>1</qty>
+    <totalAmount>4.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Pomerleau</lastname>
+        <email>David.Pomerleau@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ahmedabad</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9324</transactionId>
+    <productName>5x7 Product D Kitakyushu</productName>
+    <productID>PA870</productID>
+    <qty>3</qty>
+    <totalAmount>12.899999999999999</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Claire</firstname>
+        <lastname>Bilodeau</lastname>
+        <email>Claire.Bilodeau@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kitakyushu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9325</transactionId>
+    <productName>5.5x8.5 Product D Colombo</productName>
+    <productID>PA1251</productID>
+    <qty>4</qty>
+    <totalAmount>16.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Robert</firstname>
+        <lastname>Stone</lastname>
+        <email>Robert.Stone@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9326</transactionId>
+    <productName>4x6 Product E Chengdu</productName>
+    <productID>PA298</productID>
+    <qty>5</qty>
+    <totalAmount>21.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tammy</firstname>
+        <lastname>Burton</lastname>
+        <email>Tammy.Burton@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9327</transactionId>
+    <productName>4x6 Product A Seoul</productName>
+    <productID>PA25</productID>
+    <qty>3</qty>
+    <totalAmount>12.0</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>William</firstname>
+        <lastname>Session</lastname>
+        <email>William.Session@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Seoul</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9328</transactionId>
+    <productName>4.25x6 Product C Ho Chi Minh City</productName>
+    <productID>PA508</productID>
+    <qty>5</qty>
+    <totalAmount>22.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Hugh</firstname>
+        <lastname>Carroll</lastname>
+        <email>Hugh.Carroll@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ho Chi Minh City</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9329</transactionId>
+    <productName>4.25x6 Product E Dhaka</productName>
+    <productID>PA654</productID>
+    <qty>2</qty>
+    <totalAmount>5.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Shawn</firstname>
+        <lastname>Jones</lastname>
+        <email>Shawn.Jones@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9330</transactionId>
+    <productName>5x7 Product A Chengdu</productName>
+    <productID>PA694</productID>
+    <qty>5</qty>
+    <totalAmount>7.5</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Antione</firstname>
+        <lastname>Pimentel</lastname>
+        <email>Antione.Pimentel@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9331</transactionId>
+    <productName>5.5x8.5 Product A Dhaka</productName>
+    <productID>PA1050</productID>
+    <qty>4</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Harris</lastname>
+        <email>David.Harris@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Dhaka</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9332</transactionId>
+    <productName>5x7 Product D Tokyo</productName>
+    <productID>PA859</productID>
+    <qty>6</qty>
+    <totalAmount>9.600000000000001</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jamie</firstname>
+        <lastname>Guzman</lastname>
+        <email>Jamie.Guzman@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9333</transactionId>
+    <productName>4.25x6 Product B Ulaanbaatar</productName>
+    <productID>PA462</productID>
+    <qty>2</qty>
+    <totalAmount>3.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Jose</firstname>
+        <lastname>Foust</lastname>
+        <email>Jose.Foust@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Ulaanbaatar</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9334</transactionId>
+    <productName>5.5x8.5 Product C Tokyo</productName>
+    <productID>PA1123</productID>
+    <qty>4</qty>
+    <totalAmount>14.0</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Tammy</firstname>
+        <lastname>Davis</lastname>
+        <email>Tammy.Davis@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Tokyo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9335</transactionId>
+    <productName>5.5x8.5 Product C Melbourne</productName>
+    <productID>PA1144</productID>
+    <qty>2</qty>
+    <totalAmount>7.2</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Angela</firstname>
+        <lastname>Rogers</lastname>
+        <email>Angela.Rogers@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Melbourne</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9336</transactionId>
+    <productName>4x6 Product D Hiroshima</productName>
+    <productID>PA207</productID>
+    <qty>3</qty>
+    <totalAmount>5.4</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Hector</firstname>
+        <lastname>Horton</lastname>
+        <email>Hector.Horton@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Hiroshima</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9337</transactionId>
+    <productName>6x11 Product D Taipei</productName>
+    <productID>PA1887</productID>
+    <qty>4</qty>
+    <totalAmount>10.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Barbara</firstname>
+        <lastname>Pagan</lastname>
+        <email>Barbara.Pagan@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Taipei</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9338</transactionId>
+    <productName>5x7 Product E Darwin</productName>
+    <productID>PA944</productID>
+    <qty>2</qty>
+    <totalAmount>8.0</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Anne</firstname>
+        <lastname>Dixon</lastname>
+        <email>Anne.Dixon@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Darwin</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9339</transactionId>
+    <productName>4.25x6 Product B Sapporo</productName>
+    <productID>PA400</productID>
+    <qty>2</qty>
+    <totalAmount>3.8</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Jay</firstname>
+        <lastname>Marin</lastname>
+        <email>Jay.Marin@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sapporo</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9340</transactionId>
+    <productName>5x7 Product E Kuala Lumpur</productName>
+    <productID>PA967</productID>
+    <qty>6</qty>
+    <totalAmount>16.799999999999997</totalAmount>
+    <salesChannel>in-store</salesChannel>
+    <customer>
+        <firstname>Lee</firstname>
+        <lastname>Jackson</lastname>
+        <email>Lee.Jackson@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Kuala Lumpur</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9341</transactionId>
+    <productName>6x9 Product A Perth</productName>
+    <productID>PA1343</productID>
+    <qty>6</qty>
+    <totalAmount>16.200000000000003</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Heather</firstname>
+        <lastname>Cole</lastname>
+        <email>Heather.Cole@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Perth</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9342</transactionId>
+    <productName>5.5x8.5 Product D Sydney</productName>
+    <productID>PA1212</productID>
+    <qty>4</qty>
+    <totalAmount>8.4</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>David</firstname>
+        <lastname>Caraway</lastname>
+        <email>David.Caraway@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Sydney</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9343</transactionId>
+    <productName>4x6 Product E Chengdu</productName>
+    <productID>PA298</productID>
+    <qty>5</qty>
+    <totalAmount>21.5</totalAmount>
+    <salesChannel>mobile app</salesChannel>
+    <customer>
+        <firstname>Ricky</firstname>
+        <lastname>Moss</lastname>
+        <email>Ricky.Moss@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Chengdu</seriesCity>
+</transaction>
+
+<transaction date="20240229" reseller-id="1001">
+    <transactionId>TX9344</transactionId>
+    <productName>5.5x8.5 Product C Colombo</productName>
+    <productID>PA1185</productID>
+    <qty>6</qty>
+    <totalAmount>21.6</totalAmount>
+    <salesChannel>web</salesChannel>
+    <customer>
+        <firstname>Edna</firstname>
+        <lastname>Mowery</lastname>
+        <email>Edna.Mowery@example.com</email>
+    </customer>
+    <dateCreated>20240229</dateCreated>
+    <seriesCity>Colombo</seriesCity>
+</transaction>
+
+</transactions>
